@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0aaee1b1ca8063459f915276a8be426, type: 3}
+  m_Name: Shotgun01
+  m_EditorClassIdentifier: 
+  weaponName: C250M
+  isOneHanded: 0
+  isSingleReload: 0
+  fireRate: 1
+  spreadAmount: 20
+  reloadSpeed: 0.5
+  fireType: 2
+  timesToFire: 6
+  reloadFinishSpeed: 1.35
+  maxAmmo: 6
+  maxReserveAmmo: 36
+  weaponPartOne: {fileID: 21300000, guid: debebe5bc9ec9d7448fe884e9ae482ad, type: 3}
+  weaponPartTwo: {fileID: 21300000, guid: 5c077c4096f33074aa5b86ee004d89e3, type: 3}
+  weaponPartThree: {fileID: 21300000, guid: dcd42e8d2f879b84caf3b0b20d990f8b, type: 3}
+  currentController: {fileID: 22100000, guid: 5cddb35630e7ee64a8a30805f9f36490, type: 2}

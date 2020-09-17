@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d55e718fb6a6274d98c6085e88cc5f8, type: 3}
+  m_Name: TestRoomConversation01
+  m_EditorClassIdentifier: 
+  lines:
+  - portraitIndex: 0
+    speaker: {fileID: 11400000, guid: 8ce83408bbccdc54389fd1f5a5ece619, type: 2}
+    dialogue: Does it ever get boring just standing there all day?
+  - portraitIndex: 1
+    speaker: {fileID: 11400000, guid: 76341199ff483eb4ea018304c931908e, type: 2}
+    dialogue: No! this is the most exhilarating activity I could ever partake in!
+      There is NOTHING else I would rather be doing.
+  - portraitIndex: 2
+    speaker: {fileID: 11400000, guid: 8ce83408bbccdc54389fd1f5a5ece619, type: 2}
+    dialogue: Are you being sarcastic with me?
+  - portraitIndex: 1
+    speaker: {fileID: 11400000, guid: 76341199ff483eb4ea018304c931908e, type: 2}
+    dialogue: Not a chance. I would love nothing more than to stand here and repeat
+      dialogue lines over and over again for you.

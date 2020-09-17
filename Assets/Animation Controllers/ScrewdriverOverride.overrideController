@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScrewdriverOverride
+  m_Controller: {fileID: 9100000, guid: aba2d22b2e477624ba3d2d60a5cc7d6a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 279dc9e6abb6c944f8dd3d8d563aecc7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0029caa8652aa1044b10676bb8eeac84, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7121d536128ff174387ccdcf476ea852, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0c117bcf96775bf4ba254e0099ec92a0, type: 2}
